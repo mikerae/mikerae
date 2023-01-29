@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikerae
-- 👀 I’m interested in devepoling a free-lance capability in Full Stack Development.
+- 👀 I’m interested in developing a free-lance capability in Full Stack Development.
 - 🌱 I’m currently learning Full Stack with the Code Institute in their 1 year 5 Project program.
 - 💞️ I’m looking to collaborate on hackathons for training and collaboration purposes.
 - 📫 How to reach me: mikerae@me.com
